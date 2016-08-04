@@ -9,7 +9,7 @@ Classes para integração do Esfinge Gamification e o Spring framework.
 *	Adicione o gamification-spring nas suas dependências
 *	Adicione o pacote com.pedrocavalero.gamification em seu @ComponentScan
 *   Habilite o AspecJAutoproxy (@EnableAspectJAutoProxy) para permitir a interceptação das classes a serem gamificadas.
-*	Coloque a anotação @GamificationAware na classe com as anotações do [Esfinge Gamification](https://github.com/EsfingeFramework/gamification "Github")  (detalhes [aqui](http://esfinge.sourceforge.net/Gamification.html "Esfinge Gamification") )
+*	Coloque a anotação @GamificationAware na classe com as anotações do [Esfinge Gamification](https://github.com/EsfingeFramework/gamification "Github")  (se não sabe usar o Esfinge Gamification clique [aqui](http://esfinge.sourceforge.net/Gamification.html "Esfinge Gamification") )
 
 Pronto!
 
